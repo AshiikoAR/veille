@@ -29,21 +29,18 @@ J'aime particulièrement son côté “batteries included”, qui permet d’avo
 ## **Outils de Veille Technologique**
 
 ### **1. [Feedly](https://feedly.com) - Agrégateur de flux RSS**
-- **Lien vers la source :** [Feedly](https://feedly.com)
 - **Justification :** Feedly est un outil incontournable pour suivre plusieurs sources en un seul endroit. J'ai choisi Feedly pour sa capacité à organiser des flux RSS en catégories, ce qui me permet de suivre facilement les blogs, les actualités et les documentations liées à Django. 
 - **Flux RSS à suivre :**
   - **Django Blog** : [Django Project Weblog](https://www.djangoproject.com/weblog/)
   - **Real Python (articles et tutoriels)** : [Real Python Django Tutorials](https://realpython.com/)
 
-### **2. Google Alerts - Alertes personnalisées**
-- **Lien vers la source :** [Google Alerts](https://www.google.com/alerts)
+### **2. [Google Alerts](https://www.google.com/alerts) - Alertes personnalisées**
 - **Justification :** Google Alerts est idéal pour rester informé des sujets très spécifiques. Je reçois des notifications pour des sujets comme les failles de sécurité ou les nouvelles versions majeures de Django. Cet outil permet d'automatiser une partie de ma veille et de réagir rapidement aux informations importantes.
 - **Alertes configurées :**
   - **"Django Security Updates"**
   - **"Nouveautés Django 4"**
 
-### **3. Twitter (X) - Suivi des comptes professionnels**
-- **Lien vers la source :** [Compte officiel de Django](https://twitter.com/djangoproject)
+### **3. [Twitter (X) liés à Django](https://twitter.com/djangoproject) - Suivi des comptes professionnels**
 - **Justification :** Twitter est un excellent moyen de rester connecté avec les créateurs et contributeurs de Django. Les annonces majeures, les mises à jour et les discussions importantes sur le développement sont souvent partagées ici en premier. Cela me permet également de découvrir des tendances émergentes dans l’écosystème Django et d'autres frameworks associés.
 - **Comptes suivis :**
   - **@djangoproject** (compte officiel)
