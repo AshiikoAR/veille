@@ -3,15 +3,13 @@
 ## **Introduction - Pourquoi Django ?**
 
 <p style="text-align: justify;">
-&emsp;Afin de réaliser une veille autour d’une technologie qui me tient à cœur, j’ai décidé de choisir <b>Django</b>, car c’est un framework relativement facile à utiliser (pour les utilisateurs de Python), sécurisé et très utilisé dans le développement d’applications web (je l’utilise actuellement en alternance pour le back-end d’une application de gestion de budget, en lien avec le framework <b>React.JS</b> pour le front-end).
-<p>
+&emsp;&emsp;&emsp;Afin de réaliser une veille autour d’une technologie qui me tient à cœur, j’ai décidé de choisir <b>Django</b>, car c’est un framework relativement facile à utiliser (pour les utilisateurs de Python), sécurisé et très utilisé dans le développement d’applications web (je l’utilise actuellement en alternance pour le back-end d’une application de gestion de budget, en lien avec le framework <b>React.JS</b> pour le front-end).
 
-<p align="center">
+<span align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*9qjfo1uRMtcZtUOM.jpeg" width="500" alt="Meme Dev Django"/>
-</p>
+</span>
 
-<p style="text-align: justify;">
-&emsp;J'aime particulièrement son côté “batteries included”, qui permet d’avoir des fonctionnalités déjà complètes dès l’installation du framework (ex : gestion de base de données, interfaces d’administration, etc...). Django permet de développer une application web assez rapidement et de manière simple à maintenir (je vois ce framework comme une version BIEN plus avancée d'un autre framework Python que j'ai récemment utilisé : <b>Flask</b>). C’est pour ces raisons que, selon moi, Django est un excellent choix pour cette veille ! :)
+&emsp;&emsp;&emsp;J'aime particulièrement son côté “batteries included”, qui permet d’avoir des fonctionnalités déjà complètes dès l’installation du framework (ex : gestion de base de données, interfaces d’administration, etc...). Django permet de développer une application web assez rapidement et de manière simple à maintenir (je vois ce framework comme une version BIEN plus avancée d'un autre framework Python que j'ai récemment utilisé : <b>Flask</b>). C’est pour ces raisons que, selon moi, Django est un excellent choix pour cette veille ! :)
 </p>
 
 ---
@@ -21,8 +19,8 @@
 2. [Outils de Veille Technologique](#outils-de-veille-technologique)
    - [Feedly - Agrégateur de flux RSS](#1-feedly---agrégateur-de-flux-rss)
    - [Google Alerts - Alertes personnalisées](#2-google-alerts---alertes-personnalisées)
-   - [Twitter (X) - Suivi des comptes professionnels](#3-twitter-x---suivi-des-comptes-professionnels)
-   - [YouTube - Tutoriels et formations](#4-youtube---tutoriels-et-formations)
+   - [Twitter (X) - Suivi des comptes professionnels](#3-twitter-x-liés-à-django---suivi-des-comptes-professionnels)
+   - [YouTube - Tutoriels et formations](#4-youtube---tutoriels-et-formations-autour-de-l-outil)
    - [Communautés - Discord et Slack](#5-communautés---discord-et-slack)
    - [PyCon - Conférences et événements](#6-pycon---conférences-et-événements)
 3. [Tableau Récapitulatif des Sources](#tableau-récapitulatif-des-sources)
@@ -50,7 +48,7 @@
   - **@djangoproject** (compte officiel)
   - **@jacobian** (Jacob Kaplan-Moss, co-créateur de Django)
 
-### **4. YouTube - Tutoriels et formations**
+### **4. YouTube - [Tutoriels](https://www.youtube.com/user/schafer5) et formations autour de l'outil**
 - **Lien vers la source :** [Corey Schafer - Tutoriels Django](https://www.youtube.com/user/schafer5)
 - **Justification :** Corey Schafer propose des tutoriels vidéo clairs et didactiques, couvrant les bases comme les aspects plus avancés de Django. YouTube est une excellente source pour voir des démonstrations en temps réel et suivre des formations gratuites sur Django.
   
