@@ -22,8 +22,9 @@ J'aime particulièrement son côté “batteries included”, qui permet d’avo
 
 ![Django dev meme](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*9qjfo1uRMtcZtUOM.jpeg)
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*9qjfo1uRMtcZtUOM.jpeg" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*9qjfo1uRMtcZtUOM.jpeg" width="300"/>
 </p>
+
 ---
 
 ## **Outils de Veille Technologique**
