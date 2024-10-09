@@ -20,7 +20,7 @@ Afin de réaliser une veille autour d’une technologie qui me tient à cœur, j
 
 J'aime particulièrement son côté “batteries included”, qui permet d’avoir des fonctionnalités déjà complètes dès l’installation du framework (ex : gestion de base de données, interfaces d’administration, etc...). Django permet de développer une application web assez rapidement et de manière simple à maintenir (je vois ce framework comme une version BIEN plus avancée d'un autre framework Pythonde que j'ai utilisé récement : **Flask**). C’est pour ces raisons que, selon moi, Django est un excellent choix pour cette veille ! :)
 
-
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40kavin.shanmugam2021%2Fdjango-6e7537dcbe79&psig=AOvVaw2Vjt6mi3DDT0UG6WtkKg0h&ust=1728570223709000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi57YLAgYkDFQAAAAAdAAAAABAW)
 ---
 
 ## **Outils de Veille Technologique**
