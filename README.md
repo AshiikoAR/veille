@@ -1,7 +1,19 @@
 # Veille Technologique - Django
 
+## **Introduction - Pourquoi Django ?**
+
+Afin de réaliser une veille autour d’une technologie qui me tient à cœur, j’ai décidé de choisir **Django**, car c’est un framework relativement facile à utiliser (pour les utilisateurs de Python), sécurisé et très utilisé dans le développement d’applications web (je l’utilise actuellement en alternance pour le back-end d’une application de gestion de budget, en lien avec le framework **React.JS** pour le front-end).
+
+<p align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*9qjfo1uRMtcZtUOM.jpeg" width="500"/>
+</p>
+
+J'aime particulièrement son côté “batteries included”, qui permet d’avoir des fonctionnalités déjà complètes dès l’installation du framework (ex : gestion de base de données, interfaces d’administration, etc...). Django permet de développer une application web assez rapidement et de manière simple à maintenir (je vois ce framework comme une version BIEN plus avancée d'un autre framework Python que j'ai récemment utilisé : **Flask**). C’est pour ces raisons que, selon moi, Django est un excellent choix pour cette veille ! :)
+
+---
+
 ## Table des Matières
-1. [Introduction : Pourquoi Python ?](#introduction---pourquoi-python-)
+1. [Introduction - Pourquoi Django ?](#introduction---pourquoi-django-)
 2. [Outils de Veille Technologique](#outils-de-veille-technologique)
    - [Feedly - Agrégateur de flux RSS](#1-feedly---agrégateur-de-flux-rss)
    - [Google Alerts - Alertes personnalisées](#2-google-alerts---alertes-personnalisées)
@@ -14,24 +26,12 @@
 
 ---
 
-## **Introduction - Pourquoi Python ?**
-
-Afin de réaliser une veille autour d’une technologie qui me tient à cœur, j’ai décidé de choisir **Django**, car c’est un framework relativement facile à utiliser (pour les utilisateurs de Python), sécurisé et très utilisé dans le développement d’applications web (je l’utilise actuellement en alternance pour le back-end d’une application de gestion de budget, en lien avec le framework **React.JS** pour le front-end).
-
-J'aime particulièrement son côté “batteries included”, qui permet d’avoir des fonctionnalités déjà complètes dès l’installation du framework (ex : gestion de base de données, interfaces d’administration, etc...). Django permet de développer une application web assez rapidement et de manière simple à maintenir (je vois ce framework comme une version BIEN plus avancée d'un autre framework Pythonde que j'ai utilisé récement : **Flask**). C’est pour ces raisons que, selon moi, Django est un excellent choix pour cette veille ! :)
-
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*9qjfo1uRMtcZtUOM.jpeg" width="300"/>
-</p>
-
----
-
 ## **Outils de Veille Technologique**
 
-### **1. Feedly - Agrégateur de flux RSS**
+### **1. [Feedly](https://feedly.com) - Agrégateur de flux RSS**
 - **Lien vers la source :** [Feedly](https://feedly.com)
 - **Justification :** Feedly est un outil incontournable pour suivre plusieurs sources en un seul endroit. J'ai choisi Feedly pour sa capacité à organiser des flux RSS en catégories, ce qui me permet de suivre facilement les blogs, les actualités et les documentations liées à Django. 
-- **Flux à suivre :**
+- **Flux RSS à suivre :**
   - **Django Blog** : [Django Project Weblog](https://www.djangoproject.com/weblog/)
   - **Real Python (articles et tutoriels)** : [Real Python Django Tutorials](https://realpython.com/)
 
