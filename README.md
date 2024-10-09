@@ -4,11 +4,13 @@
 
 <p style="text-align: justify;">
 &emsp;&emsp;&emsp;Afin de réaliser une veille autour d’une technologie qui me tient à cœur, j’ai décidé de choisir <b>Django</b>, car c’est un framework relativement facile à utiliser (pour les utilisateurs de Python), sécurisé et très utilisé dans le développement d’applications web (je l’utilise actuellement en alternance pour le back-end d’une application de gestion de budget, en lien avec le framework <b>React.JS</b> pour le front-end).
+</p>
 
-<span align="center">
+<p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*9qjfo1uRMtcZtUOM.jpeg" width="500" alt="Meme Dev Django"/>
-</span>
+</p>
 
+<p style="text-align: justify;">
 &emsp;&emsp;&emsp;J'aime particulièrement son côté “batteries included”, qui permet d’avoir des fonctionnalités déjà complètes dès l’installation du framework (ex : gestion de base de données, interfaces d’administration, etc...). Django permet de développer une application web assez rapidement et de manière simple à maintenir (je vois ce framework comme une version BIEN plus avancée d'un autre framework Python que j'ai récemment utilisé : <b>Flask</b>). C’est pour ces raisons que, selon moi, Django est un excellent choix pour cette veille ! :)
 </p>
 
@@ -20,7 +22,7 @@
    - [Feedly - Agrégateur de flux RSS](#1-feedly---agrégateur-de-flux-rss)
    - [Google Alerts - Alertes personnalisées](#2-google-alerts---alertes-personnalisées)
    - [Twitter (X) - Suivi des comptes professionnels](#3-twitter-x-liés-à-django---suivi-des-comptes-professionnels)
-   - [YouTube - Tutoriels et formations](#4-youtube---tutoriels-et-formations-autour-de-l-outil)
+   - [YouTube - Tutoriels et formations](#4-youtube---tutoriels-et-formations-autour-de-loutil)
    - [Communautés - Discord et Slack](#5-communautés---discord-et-slack)
    - [PyCon - Conférences et événements](#6-pycon---conférences-et-événements)
 3. [Tableau Récapitulatif des Sources](#tableau-récapitulatif-des-sources)
