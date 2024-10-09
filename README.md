@@ -1,7 +1,7 @@
 # Veille Technologique - Django
 
 ## Table des Matières
-1. [Introduction : Pourquoi Python ?](#introduction-:-pourquoi-python)
+1. [Introduction : Pourquoi Python ?](#introduction---pourquoi-python-?)
 2. [Outils de Veille Technologique](#outils-de-veille-technologique)
    - [Feedly - Agrégateur de flux RSS](#1-feedly---agrégateur-de-flux-rss)
    - [Google Alerts - Alertes personnalisées](#2-google-alerts---alertes-personnalisées)
@@ -14,7 +14,7 @@
 
 ---
 
-## **Introduction : Pourquoi Python ?**
+## **Introduction - Pourquoi Python ?**
 
 Afin de réaliser une veille autour d’une technologie qui me tient à cœur, j’ai décidé de choisir **Django**, car c’est un framework relativement facile à utiliser (pour les utilisateurs de Python), sécurisé et très utilisé dans le développement d’applications web (je l’utilise actuellement en alternance pour le back-end d’une application de gestion de budget, en lien avec le framework **React.JS** pour le front-end).
 
