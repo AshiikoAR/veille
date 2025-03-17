@@ -3,7 +3,7 @@
 ## **Introduction - Pourquoi Django ?**
 
 <p>
-    &emsp;&emsp;&emsp;Pour ma veille technologique, j'ai choisi de me concentrer sur <b>Django</b>, un framework web qui occupe une place de choix dans le développement d'applications web. Django m'intéresse particulièrement pour plusieurs raisons. D’abord, c’est un framework que je trouve incroyablement puissant et sécurisé, et qui est utilisé par de nombreuses grandes entreprises dans leurs applications web. Personnellement, je l’utilise actuellement dans le cadre de mon alternance pour développer le back-end d’une application de gestion de budget. Ce projet est d’ailleurs couplé avec <b>React.JS</b> pour la partie front-end, ce qui me permet de travailler sur des technologies complémentaires et très modernes.
+    &emsp;&emsp;&emsp;Pour ma veille technologique, j'ai choisi de me concentrer sur <b>Django</b>, un framework web qui occupe une place de choix dans le développement d'applications web. Django m'intéresse particulièrement pour plusieurs raisons. D’abord, c’est un framework que je trouve incroyablement puissant et sécurisé, et qui est utilisé par de nombreuses grandes entreprises dans leurs applications web. Je l’utilise d'ailleurs personnellement dans le cadre de mon alternance pour développer le back-end d’une application de gestion de projets/budgets. Ce projet est d’ailleurs couplé avec <b>React.JS</b> pour la partie front-end, ce qui me permet de travailler sur des technologies relativement complémentaires.
 </p>
 
 <p align="center">
@@ -11,7 +11,11 @@
 </p>
 
 <p>
-    &emsp;&emsp;&emsp;J’apprécie tout particulièrement la philosophie “batteries included” de Django. Cette approche permet d’obtenir un cadre de développement complet dès l’installation du framework, avec des fonctionnalités robustes comme la gestion des bases de données, l’authentification, et une interface d’administration prête à l’emploi. Ce qui me séduit également chez Django, c’est la rapidité avec laquelle on peut créer des applications complexes et évolutives. Cela me rappelle mon expérience avec un autre framework Python, <b>Flask</b>, mais Django m’apparaît comme une version bien plus avancée et mieux structurée. Pour moi, il n’y a pas de doute : Django est un excellent choix pour cette veille technologique, et j’ai hâte de découvrir encore plus de ses fonctionnalités !
+    &emsp;&emsp;&emsp;J’apprécie particulièrement la philosophie “batteries included” de Python/Django (-> Devise signifiant qu'il est fourni avec une vaste bibliothèque de modules utiles). Cette approche permet d’obtenir un cadre de développement complet dès son installation, avec des fonctionnalités robustes telles que : La gestion de bases de données, l’authentification, et une interface d’administration prête à l’emploi (Django admin). Ce qui me séduit également chez Django, c’est la rapidité avec laquelle on peut créer des applications complexes et évolutives en suivant plusieurs modèles d'architectures (MVT/MVC, etc...). Cela me rappelle une expérience réalisée avec un autre framework Python :  <b>Flask</b>, mais Django m’apparaît comme une version bien plus avancée et mieux structurée (-> Flask est plus simple et plus léger, moins adapté pour une grosse application web). 
+</p>
+
+<p>
+    Pour moi, pas de doutes : Django me semble avoir été un excellent choix pour réaliser cette veille, et j’ai hâte de découvrir (encore) de nouvelles fonctionnalités !
 </p>
 
 ---
