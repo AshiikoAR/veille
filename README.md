@@ -21,17 +21,17 @@
 ---
 
 ## Table des Matières
-1. [Introduction - Pourquoi Django ?](#introduction---pourquoi-django-)
+1. [Introduction - Pourquoi Django ?](#introduction---pourquoi-django)
 2. [Outils de Veille Technologique](#outils-de-veille-technologique)
-   - [Feedly - Agrégateur de flux RSS](#1-feedly---agrégateur-de-flux-rss)
-   - [Google Alerts - Alertes personnalisées](#2-google-alerts---alertes-personnalisées)
-   - [Twitter (X) - Suivi des comptes professionnels](#3-twitter-x-liés-à-django---suivi-des-comptes-professionnels)
-   - [YouTube - Tutoriels et formations](#4-youtube---tutoriels-et-formations-autour-de-loutil)
-   - [Communautés - Discord et Slack](#5-communautés---discord-et-slack)
-   - [PyCon - Conférences et événements](#6-pycon---conférences-et-événements)
-   - [Podcasts - Écouter les experts](#7-podcasts---écouter-les-experts)
-   - [Livres - Lecture approfondie](#8-livres---lecture-approfondie)
-   - [Blogs - Articles de fond](#9-blogs---articles-de-fond)
+   - [Feedly - Agrégateur de flux RSS](#feedly---agrégateur-de-flux-rss)
+   - [Google Alerts - Alertes personnalisées](#google-alerts---alertes-personnalisées)
+   - [X (Twitter) - Suivi des comptes professionnels](#x-twitter---suivi-des-comptes-professionnels)
+   - [YouTube - Tutoriels et formations](#youtube---tutoriels-et-formations)
+   - [Communautés - Discord et Slack](#communautés---discord-et-slack)
+   - [PyCon - Conférences et événements](#pycon---conférences-et-événements)
+   - [Podcasts - Écouter les experts](#podcasts---écouter-les-experts)
+   - [Livres - Lecture approfondie](#livres---lecture-approfondie)
+   - [Blogs - Articles de fond](#blogs---articles-de-fond)
 3. [Conclusion](#conclusion)
 4. [Tableau Récapitulatif des Sources](#tableau-récapitulatif-des-sources)
 
